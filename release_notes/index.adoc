@@ -1,0 +1,63 @@
+:toc: left
+:toclevels: 3
+:sectanchors:
+:linkattrs:
+
+include::topics/templates/document-attributes-community.adoc[]
+
+:release_notes:
+
+= {releasenotes_name}
+
+:release_header_guide: {releasenotes_name_short}
+:release_header_latest_link: {releasenotes_link_latest}
+include::topics/templates/release-header.adoc[]
+
+== {project_name_full} 8.0.2
+include::topics/8_0_2.adoc[leveloffset=2]
+
+== {project_name_full} 8.0.1
+include::topics/8_0_1.adoc[leveloffset=2]
+
+== {project_name_full} 8.0.0
+include::topics/8_0_0.adoc[leveloffset=2]
+
+== {project_name_full} 7.0.1.Final
+include::topics/7_0_1_final.adoc[leveloffset=2]
+
+== {project_name_full} 7.0.0
+include::topics/7_0_0.adoc[leveloffset=2]
+
+== {project_name_full} 6.0.0
+include::topics/6_0_0.adoc[leveloffset=2]
+
+== {project_name_full} 5.0.0
+include::topics/5_0_0.adoc[leveloffset=2]
+
+== {project_name_full} 4.8.0.Final
+include::topics/4_8_0_final.adoc[leveloffset=2]
+
+== {project_name_full} 4.7.0.Final
+include::topics/4_7_0_final.adoc[leveloffset=2]
+
+== {project_name_full} 4.6.0.Final
+include::topics/4_6_0_final.adoc[leveloffset=2]
+
+== {project_name_full} 4.5.0.Final
+include::topics/4_5_0_final.adoc[leveloffset=2]
+
+== {project_name_full} 4.4.0.Final
+include::topics/4_4_0_final.adoc[leveloffset=2]
+
+== {project_name_full} 4.3.0.Final
+include::topics/4_3_0_final.adoc[leveloffset=2]
+
+== {project_name_full} 4.2.0.Final
+include::topics/4_2_0_final.adoc[leveloffset=2]
+
+== {project_name_full} 4.1.0.Final
+include::topics/4_1_0_final.adoc[leveloffset=2]
+
+== {project_name_full} 4.0.0.Final
+include::topics/4_0_0_final.adoc[leveloffset=2]
+include::topics/4_0_0_beta3.adoc[leveloffset=2]
