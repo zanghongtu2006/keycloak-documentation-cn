@@ -1,11 +1,11 @@
 :project_community: false
 :project_product: true
-:project_name: Red Hat Single Sign-On
+:project_name: 红帽单点登录
 :project_versionMvn: 4.8.3.Final-redhat-00001
 :project_versionNpm: 4.8.3.Final-redhat-00001
 :project_images: rhsso-images
 
-:project_name_full: Red Hat Single Sign-On
+:project_name_full: 红帽单点登录
 :project_version: 7.4.0.GA
 :keycloak_upgrade_version: 9.0.x
 :project_versionDoc: 7.4
@@ -18,7 +18,7 @@
 
 :project_dirref: RHSSO_HOME
 
-:quickstartRepo_name: {project_name} Quickstarts Repository
+:quickstartRepo_name: {project_name} 快速入门 Repository
 :quickstartRepo_link: https://github.com/redhat-developer/redhat-sso-quickstarts
 :quickstartRepo_dir: redhat-sso-quickstarts
 
@@ -36,11 +36,11 @@
 :adminguide_bruteforce_link: {adminguide_link}#password-guess-brute-force-attacks
 :adminguide_disabling_automatic_user_creation_name: disabling automatic user creation
 :adminguide_disabling_automatic_user_creation_link: {adminguide_link}#_disabling_automatic_user_creation
-:adminguide_timeouts_name: Timeouts
+:adminguide_timeouts_name: 超时
 :adminguide_timeouts_link: {adminguide_link}#_timeouts
 :adminguide_clearcache_name: Clearing Server Caches
 :adminguide_clearcache_link: {adminguide_link}#_clear-cache
-:apidocs_name: API Documentation
+:apidocs_name: API 文档
 :apidocs_link: {project_doc_base_url}/api_documentation/index
 :developerguide_name: Server Developer Guide
 :developerguide_link: {project_doc_base_url}/server_developer_guide/
@@ -50,7 +50,7 @@
 :developerguide_jsproviders_link: {developerguide_link}#_script_providers
 :gettingstarted_name: Getting Started Guide
 :gettingstarted_link: {project_doc_base_url}/getting_started_guide/
-:upgradingguide_name: Upgrading Guide
+:upgradingguide_name: 升级指南
 :upgradingguide_link: {project_doc_base_url}/upgrading_guide/
 :releasenotes_name: Release Notes
 :releasenotes_link: {project_doc_base_url}/release_notes/
@@ -83,11 +83,11 @@
 
 :installguide_name: Server Installation and Configuration Guide
 :installguide_link: {project_doc_base_url}/server_installation_and_configuration_guide/
-:installguide_clustering_name: Clustering
+:installguide_clustering_name: 集群
 :installguide_clustering_link: {installguide_link}#_clustering
-:installguide_database_name: Database
+:installguide_database_name: 数据库
 :installguide_database_link: {installguide_link}#_database
-:installguide_disablingcaching_name: Disabling caching
+:installguide_disablingcaching_name: 禁用缓存
 :installguide_disablingcaching_link: {installguide_link}#disabling-caching
 :installguide_loadbalancer_name: Setting Up a Load Balancer or Proxy
 :installguide_loadbalancer_link: {installguide_link}#_setting-up-a-load-balancer-or-proxy

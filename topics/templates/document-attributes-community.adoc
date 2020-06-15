@@ -58,8 +58,8 @@ endif::[]
 :gettingstarted_name_short: Getting Started
 :gettingstarted_link: {project_doc_base_url}/getting_started/
 :gettingstarted_link_latest: {project_doc_base_url_latest}/getting_started/
-:upgradingguide_name: Upgrading Guide
-:upgradingguide_name_short: Upgrading
+:upgradingguide_name: 升級指南
+:upgradingguide_name_short: 升級
 :upgradingguide_link: {project_doc_base_url}/upgrading/
 :upgradingguide_link_latest: {project_doc_base_url_latest}/upgrading/
 :releasenotes_name: Release Notes
@@ -67,17 +67,17 @@ endif::[]
 :releasenotes_link: {project_doc_base_url}/release_notes/
 :releasenotes_link_latest: {project_doc_base_url_latest}/release_notes/
 
-:installguide_name: Server Installation and Configuration Guide
-:installguide_name_short: Server Installation
+:installguide_name: 安装和配置指南
+:installguide_name_short: 安装
 :installguide_link: {project_doc_base_url}/server_installation/
 :installguide_link_latest: {project_doc_base_url_latest}/server_installation/
-:installguide_clustering_name: Clustering
+:installguide_clustering_name: 集群
 :installguide_clustering_link: {installguide_link}#_clustering
-:installguide_database_name: Database
+:installguide_database_name: 数据库
 :installguide_database_link: {installguide_link}#_database
 :installguide_disablingcaching_name: Disabling caching
 :installguide_disablingcaching_link: {installguide_link}#disabling-caching
-:installguide_loadbalancer_name: Setting Up a Load Balancer or Proxy
+:installguide_loadbalancer_name: 负载均衡和代理
 :installguide_loadbalancer_link: {installguide_link}#_setting-up-a-load-balancer-or-proxy
 :installguide_truststore_name: Keycloak truststore
 :installguide_truststore_link: {installguide_link}#_truststore
@@ -85,7 +85,7 @@ endif::[]
 :installguide_profile_link: {installguide_link}#profiles
 :installguide_stickysessions_name: Sticky sessions
 :installguide_stickysessions_link: {installguide_link}#sticky-sessions
-:installguide_troubleshooting_name: Troubleshooting
+:installguide_troubleshooting_name: 故障诊断
 :installguide_troubleshooting_link: {installguide_link}#troubleshooting
 
 :apidocs_javadocs_name: JavaDocs Documentation
